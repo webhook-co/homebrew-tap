@@ -1,3 +1,5 @@
+> **webhook.co has been wound down.** The `wbhk` CLI and this tap are deprecated and archived. If you are interested in acquiring any of the assets, including the domain, contact [sourabh@webhook.co](mailto:sourabh@webhook.co).
+
 # webhook-co/homebrew-tap
 
 Homebrew tap for **`wbhk`** — the [webhook.co](https://webhook.co) CLI.

@@ -9,6 +9,8 @@ class Wbhk < Formula
   version "0.6.0"
   license "Apache-2.0"
 
+  deprecate! date: "2026-10-11", because: :unmaintained
+
   on_macos do
     on_arm do
       url "https://github.com/webhook-co/webhook/releases/download/cli-v0.6.0/wbhk-darwin-arm64"
